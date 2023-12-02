@@ -1,2 +1,3 @@
-# RedBot
-Free to use Escape From Tarkov skill leveling and k/d lowering bot
+<p align="center">
+  <img src="logo_stroke.png">
+</p>
